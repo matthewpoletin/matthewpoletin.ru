@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+a{
+	text-decoration: none;
+	color: #000;
+	}
+a hover{
+	text-decoration: none;
+	}
+body{
+	background-color: #9fd5fb;
+	}
+	.main{
+		width: 720px;
+	 	margin: 0 auto;
+		}
+		.slide{
+			width: 720px;
+			height: 540px;
+			margin-top: 20px;
+			position: relative;
+			}
+			.contents{
+				width: 720px;
+				height: 540px;
+				position: absolute;
+			}
+			.one{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 99px 0 0 24px;
+				}
+			.two{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 174px 0 0 24px;
+				}
+			.three{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 252px 0 0 24px;
+				}
+			.four{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 332px 0 0 24px;
+				}
+			.five{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 406px 0 0 24px;
+				}
+			.six{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 485px 0 0 24px;
+				}
+			.seven{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 99px 0 0 376px;
+				}
+			.eight{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 176px 0 0 376px;
+				}
+			.nine{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 252px 0 0 376px;
+				}
+			.ten{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 332px 0 0 376px;
+				}
+			.eleven{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 406px 0 0 376px;
+				}
+			.twelve{
+				width: 303px;
+				height: 37px;
+				position: absolute;
+				margin: 483px 0 0 376px;
+				}
+		.nav{
+			width: 720px;
+			height: 40px;
+			margin-top: 20px;
+			}
